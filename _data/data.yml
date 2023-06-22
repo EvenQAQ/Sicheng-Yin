@@ -3,261 +3,174 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Sicheng Yin
+    tagline: Researcher
+    avatar: resume.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: yinsicheng1999@outlook.com
+    phone: +44 753 697 3514
+    website: evenqaq.github.io/Sicheng-Yin/ #do not add http://
+    linkedin: sicheng-yin-262130200
+    # xing:
+    github: EvenQAQ
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    # twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    # pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
+      - idiom: Mandarin
+        level: Native
 
-        - idiom: French
-          level: Professional
+      - idiom: English
+        level: Professional
 
-        - idiom: Spanish
-          level: Professional
+      # - idiom: Spanish
+        # level: Professional
 
     interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
+      - item: Guitar
+        link:
 
-        - item: Snowboarding
-          link:
+      - item: DIY PC
+        link:
 
-        - item: Cooking
-          link:
+      - item: Sneaker Head
+        link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      With a solid background of computer science, I am an explorer in Human Computer Interaction, with practices on text entry, AR/VR/MR, accessibility, etc. Currently on my way of pursuing a Master's degree and PhD in the future, and motivated for a carrer as a product manager.
 education:
-    title: Education
-    info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+    - degree: MSc in Advanced Design Informatics
+      university: University of Edinburgh
+      time: 2021 - 2023
+      details: |
+        Currently I am pursuing a Master's degree at University of Edinburgh. I am trying to explore more on both aesthetic and interaction of next-generation devices, gears, systems.
+          - ubiquitous computing
+          - design with data
+          - machine learning
+    - degree: B.Eng in Computer Science
+      university: Tsinghua University
+      time: 2016 - 2020
+      details: |
+        The comprehensive syllabus offered by the Computer Science program at Tsinghua University (THU) covers a wide range of topics on software and hardware. Since both software and hardware are essential to the performance of an electronical product, the courses I took has allowed me to create hardware configurations and develop the functionalities of the software to achieve optimal integration. Moreover, advanced courses have equipped me with the necessary advanced insight to confidently explore cutting-edge topics in modern technologies in computers, varied from a small smartwatch to a room-sized server. The training at THU has not only prepared me for rigorous studies, but also laid a solid foundation for my future research projects.
+          - Human Computer Interaction, Software Engineering, Computer Graphics, Media Computing
+          - research Exploration
 experiences:
-    title: Experiences
-    info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+    - role: Research Assistant
+          time: 2022
+          company: Cornell University
+          details: |
+            I engaged in research projects based on active acoustic sensing.
+              - acoustic signal processing
+              - deep learning algorithm based on RCNN
+              - GUI design
+              - user study
 
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
-            
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus 
-            fringilla vel. Ut euismod, sem sed vulputate venenatis, 
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at. 
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
-        
+    - role: Research Assistant
+      time: 2022
+      company: University of Glasgow, Glasgow
+      details: |
+        I was a leader for a research project focused on emotion tracking and tangible design for peer group.
+          - physiological signal tracking
+          - emotion detection
+          - peer group interaction design
+
+    - role: Research Assistant
+      time: 2020 - 2021
+      company: Tsinghua University, Beijing
+      details: |
+        In Pervasive Computing Group at Tsinghua University, I worked as a research assistant, participanting in 3 projects, RaiseToControl, ToyStory and guide car design for the blind.
+          - sensor configuration
+          - machine learning
+          - accessibility
+
+    - role: Research Intern
+      time: 2019
+      company: Dartmouth College, Hanover
+      details: |
+        In XDiscoveryLab, I worked for the eyes-free text entry projects. We upgraded the single-hand version of fingertip keyboard to a bimanual one. By researching on 3 key factors and making optimization, we designed a prototype of a novel text entry interface.
+          - BiTiptext
+          - ThreadSense
+
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I have been leading and participating in HCI research projects and art installations.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: EchoNose
+        tagline: "Sensing movements and gestures inside the oral cavity has long been a challenge for the wearable research community. This paper introduces EchoNose, a novel nose interface that explores a unique sensing approach to recognize gestures related to mouth, breathing, and tongue by analyzing the acoustic signal reflections inside the nasal and oral cavities. The interface incorporates a speaker and a microphone placed at the nostrils, emitting inaudible acoustic signals and capturing the corresponding reflections. These received signals were processed using a customized data processing and machine learning pipeline, enabling the distinction of 16 gestures involving speech, tongue, and breathing. A user study involving 10 participants' data demonstrates that EchoNose achieves an average accuracy of 93.7% in recognizing these 16 gestures. Based on these promising results, we discuss the potential opportunities and challenges associated with applying this innovative nose interface in various future applications."
+      - title: EchoWrist
+        tagline: "We present EchoWrist, a low-profile wristband that can estimate 3D hand pose and wrist rotation continuously. With a power signature of 57.9mW, EchoWrist deploys two pairs of speakers and microphones on a wristband at back and palm sides of the hand, respectively. Speakers emit inaudible sound waves towards the hand, which are reflected and diffracted through different paths that encode rich information about the hand pose. Through echo profile analysis and deep learning inference, we utilize such information to estimate the 3D hand pose and wrist rotation. We evaluated EchoWrist with a user study with 12 participants. Results show that EchoWrist can estimate the 3D coordinates of 20 joints with Mean Joint Euclidean Distance Error (MJEDE) of 4.81mm or Mean Joint Angular Error (MJAE) of 3.79◦. EchoWrist also estimates wrist orientation with a Mean Wrist Angular Error (MWAE) of 6.95◦ session-independently. With only 1 minute of calibration from new user, EchoWrist still achieves 6.92mm MJEDE 4.99◦ MJAE and 9.54◦ MWAE. We further demonstrate EchoWrist’s robustness against noises and discuss the opportunities and challenges in future deployment."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: GazeTrak
+        tagline: "GazeTrak is a low-power intelligent sensing system for eye tracking on glass frames using active acoustic sensing. Our system needs one speaker and four microphones attached on each side of the glasses. The acoustic sensors are used to capture the formations of the eyeballs and the surrounding areas by emitting inaudible sounds towards eyeballs and receiving the reflected signals. These reflected signals are further processed to calculate the echo profiles, which are learned by a customized deep learning pipeline to infer the gaze position continuously. A user study with 12 participants showed GazeTrak achieved an accuracy of 3.3 degrees with a refreshing rate of 83.3 Hz and a power signature of 336.5 mW. It can last 7.8 hours on the battery of Google Glass. Given its promising performance, we discuss how to further optimize the hardware setting and energy consumption, and improve performance in the context of real-world deployments.
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Stress Tracking by wearables
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: 3H Chopping Board
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Mid-Air Typing on 2D plane
+        tagline:
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: RTensor
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: BiTiptext
+        link: "#https://www.cs.dartmouth.edu/~hci/project.html?title=BiTipText"
+        tagline: "We present a bimanual text input method on a miniature fingertip keyboard, that invisibly resides on the first segment of a user's index finger on both hands. Text entry can be carried out using the thumb-tip to tap the tip of the index finger. The design of our keyboard layout followed an iterative process, where we first conducted a study to understand the natural expectation of the handedness of the keys in a QWERTY layout for users. Among a choice of 67,108,864 design variations, we identified 1295 candidates offering a good satisfaction for user expectations. Based on these results, we computed an optimized bimanual keyboard layout, while considering the joint optimization problems of word ambiguity and movement time. Our user evaluation revealed that participants achieved an average text entry speed of 23.4 WPM."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      published papers
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: BiTipText
+        link: "#https://doi.org/10.1145/3313831.3376306"
+        authors: Zheer Xu, Weihao Chen, Dongyang Zhao, Jiehui Luo, Te-Yen Wu, Jun Gong, Sicheng Yin, Jialun Zhai, and Xing-Dong Yang
+        conference: In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI '20)
+      - title: GazeTrak: Low-power Eye Tracking on a Glass Frame with Acoustic Sensing
+        authors: Ke Li, Ruidong Zhang, Boao Chen, Siyuan Chen, Sicheng Yin, Francois Guimbretiere, Cheng Zhang
+        conference: Pending RR for the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23)
+      - title: EchoWrist: Continuous Hand Pose Tracking on a Low-Profile Wristband using Low-power Acoustic Sensing
+        authors: Ruidong Zhang, Devansh Agarwal, Sicheng Yin, Boao Dong, Ke Li, Mose Sakashita, Francois Guimbretiere, Cheng Zhang
+        conference: Pending RR for the IMWUT 2023
+      - title: EchoNose: Sensing Mouth, Breathing and Tongue Gestures inside Oral Cavity using a Non-contact Nose Interface
+        authors: Rujia Sun, Xiaohe Zhou, Benjamin Steeper, Ruidong Zhang, Sicheng Yin, Ke Li, Shengzhang Wu, Francois Guimbretiere, Cheng Zhang
+        conference: Pending RR for UbiComp/ISWC 2023
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+
+      - name: Python
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: C++
+        level: 90%
+
+      - name: C# & Unity
         level: 98%
 
-      - name: Angular
-        level: 98%
 
-      - name: HTML5 & CSS
+      - name: Android(Java, Flutter)
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Probe Design
         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
