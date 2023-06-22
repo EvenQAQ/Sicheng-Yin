@@ -69,14 +69,14 @@ education:
           - research Exploration
 experiences:
     - role: Research Assistant
-          time: 2022
-          company: Cornell University
-          details: |
-            I engaged in research projects based on active acoustic sensing.
-              - acoustic signal processing
-              - deep learning algorithm based on RCNN
-              - GUI design
-              - user study
+      time: 2022
+      company: Cornell University
+      details: |
+        I engaged in research projects based on active acoustic sensing.
+          - acoustic signal processing
+          - deep learning algorithm based on RCNN
+          - GUI design
+          - user study
 
     - role: Research Assistant
       time: 2022
